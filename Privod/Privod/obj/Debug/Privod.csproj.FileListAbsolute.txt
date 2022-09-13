@@ -1,0 +1,11 @@
+D:\pisulki\Privod\Privod\bin\Debug\Privod.exe.config
+D:\pisulki\Privod\Privod\bin\Debug\Privod.exe
+D:\pisulki\Privod\Privod\bin\Debug\Privod.pdb
+D:\pisulki\Privod\Privod\obj\Debug\Privod.csproj.AssemblyReference.cache
+D:\pisulki\Privod\Privod\obj\Debug\Privod.csproj.SuggestedBindingRedirects.cache
+D:\pisulki\Privod\Privod\obj\Debug\Privod.Form1.resources
+D:\pisulki\Privod\Privod\obj\Debug\Privod.Properties.Resources.resources
+D:\pisulki\Privod\Privod\obj\Debug\Privod.csproj.GenerateResource.cache
+D:\pisulki\Privod\Privod\obj\Debug\Privod.csproj.CoreCompileInputs.cache
+D:\pisulki\Privod\Privod\obj\Debug\Privod.exe
+D:\pisulki\Privod\Privod\obj\Debug\Privod.pdb
